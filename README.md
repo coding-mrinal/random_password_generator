@@ -25,14 +25,15 @@ To run the application locally:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/random-password-generator.git
+   git clone https://github.com/coding-mrinal/random_password_generator.git
 
 
 2. Navigate to the project directory:
 
-   cd random-password-generator
+   cd random_password_generator
  
 3. Open `index.html` in your preferred browser.
+
 
 
 
